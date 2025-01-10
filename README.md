@@ -63,6 +63,18 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<h3 align="center">💾 Database 💾</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🛠 Database Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/dbeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp
+</div>
+<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
