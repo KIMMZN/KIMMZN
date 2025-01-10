@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="[https://velog.io/@oka1313](https://www.notion.so/AI-1657a346fc3b80e89f67fc45e5bfbc22)">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
   <a href="mailto:tkdlqhrm222@gmail.com">
