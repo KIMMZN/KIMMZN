@@ -61,12 +61,11 @@
 <br>
 
 <!-- 깃허브 Stats -->
-## 저의 깃허브는요 ✨
+## 나의 깃허브는! ✨
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIMMZN&show_icons=true&theme=dark&hide=contribs,issues)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIMMZN&show_icons=true&theme=dark&hide=contribs,issues)&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMMZN&layout=compact&theme=dark)
 
 </div>
