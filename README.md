@@ -82,3 +82,14 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/tkdlqhrm222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<br>
+
+## 저의 깃허브는요 ✨
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tudin-dev&show_icons=true&theme=dark&hide=contribs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tudin-dev&layout=compact&theme=dark)
+
+</div>
