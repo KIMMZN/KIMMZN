@@ -14,7 +14,6 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
 </div>
@@ -32,6 +31,17 @@
 
 <br>
 
+<!-- 🗄️ RDBMS -->
+<h3 align="center">🗄️ RDBMS 🗄️</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
+</div>
+
+<br>
+
+
 <!-- 🛠 Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -39,6 +49,7 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp;
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp;
