@@ -1,84 +1,48 @@
-## Hi there 👋
+## 👋 Welcome to 김시온's GitHub!
 
-<!-- 타이틀 부분 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20TO%20KIMMZN'S%20GITHUB&fontSize=50" alt="Capsule Render Title" />
-</div>
+### 🏆 Passionate Developer | Lifelong Learner
 
-<!-- ✨ Tech Stack -->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
-</div>
+안녕하세요! 끊임없이 배우고 성장하는 개발자 **김시온**입니다.  
+기술적으로 부족한 부분을 스스로 찾아 공부하며,  
+포기하지 않는 자세로 역량을 키워가는 것을 목표로 합니다. 
 
-<br>
+<hr>
 
-<!-- 📚 Studying -->
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp;
-</div>
+<!-- 🎨 Dynamic Title Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Welcome%20to%20KIMMZN's%20GitHub!&fontSize=30&fontColor=ffffff" alt="GitHub Header" />
 
-<br>
+<!-- 🚀 Tech Stack Section -->
+## ✨ Tech Stack ✨
+
+### 🖥️ Programming Languages
+<img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
 
 <!-- 🗄️ RDBMS -->
-<h3 align="center">🗄️ RDBMS 🗄️</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
-</div>
+## 🗄️ Databases 🗄️
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-<br>
+<!-- 🛠 Tools Section -->
+## 🛠 Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/DBeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />
 
+<!-- 📈 GitHub Stats Section -->
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=KIMMZN&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KIMMZN&theme=tokyonight" height="180px"/>
 
-<!-- 🛠 Tools -->
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp;
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp;
-  <img src="https://img.shields.io/badge/dbeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp;
-</div>
+<!-- 🎯 Connect with Me -->
+## 📬 Contact
+<a href="mailto:tkdlqhrm222@gmail.com">
+  <img src="https://img.shields.io/badge/tkdlqhrm222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> <a href="https://www.notion.so/AI-1657a346fc3b80e89f67fc45e5bfbc22">
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+</a>
 
-<br>
-
-<!-- 📫 Contact -->
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://www.notion.so/AI-1657a346fc3b80e89f67fc45e5bfbc22" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
-  </a>
-  <a href="mailto:tkdlqhrm222@gmail.com">
-    <img src="https://img.shields.io/badge/tkdlqhrm222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
-  </a>
-</div>
-
-<br>
-
-<!-- 깃허브 Stats -->
-## 나의 깃허브는! ✨
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIMMZN&show_icons=true&theme=dark&hide=contribs,issues)&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMMZN&layout=compact&theme=dark)
-
-</div>
+<!-- 🌟 Footer -->
+🚀 "끊임없이 배우고 성장하는 개발자" 🚀
